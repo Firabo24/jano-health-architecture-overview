@@ -1,6 +1,6 @@
 # Jano Health — conceptual architecture
 
-**Status:** public architecture overview; exploratory and not formally approved.
+**Status:** Founder-approved architecture baseline — November 5, 2026. Approval applies to architecture scope only, not clinical, legal, security, partner or production release authorization.
 
 ## Purpose
 
